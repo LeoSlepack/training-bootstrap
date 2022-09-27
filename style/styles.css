@@ -49,6 +49,7 @@ body {
 }
 
 .container {
+    margin-top: 20px;
     background-color: #9999;
 }
 
@@ -118,4 +119,15 @@ body {
 .col-6,
 .col-3 {
     height: 50px;
+}
+
+/*OFFSET*/
+
+#offset {
+    height: auto;
+}
+
+#offset .col-md-3 {
+    height: 50px;
+    border: 2px solid greenyellow;
 }
