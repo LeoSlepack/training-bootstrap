@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.bi-bell,
+.bi-instagram {
+    font-size: 40px;
+    color: red;
+    margin: 20px;
+}
+
+.bi-linkedin {
+    font-size: 40px;
+    margin: 20px;
+    color:blue;
+}
