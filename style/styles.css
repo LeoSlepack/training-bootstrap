@@ -40,7 +40,35 @@ h1 {
     }
 }
 
+body {
+    background-color:rgb(195, 195, 240);
+}
+
 .btn-primary {
     background-color: red;
 }
 
+.container {
+    background-color: #9999;
+}
+
+.container-fluid {
+    background-color: cyan;
+}
+
+/* CONTAINER BREAKPOINT */
+
+.container-sm {
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+
+.container-md {
+    margin-bottom: 30px;
+    border: 2px solid red;
+}
+
+.container-lg {
+    margin-bottom: 30px;
+    border: 2px solid greenyellow;
+}
